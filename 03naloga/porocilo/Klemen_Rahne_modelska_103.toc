@@ -1,0 +1,7 @@
+\select@language {slovene}
+\contentsline {section}{\numberline {1}Thomsonov problem}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Re\IeC {\v s}itve}{1}{subsection.1.1}
+\contentsline {section}{\numberline {2}Optimalna vo\IeC {\v z}nja skozi semafor}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Prosta vo\IeC {\v z}nja}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Fiksna kon\IeC {\v c}na hitrost in periodi\IeC {\v c}ni robni pogoji}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Omejitev hitrost}{5}{subsection.2.3}

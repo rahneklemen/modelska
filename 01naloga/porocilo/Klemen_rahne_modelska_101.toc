@@ -1,0 +1,6 @@
+\select@language {slovene}
+\contentsline {section}{\numberline {1}Naloga}{1}{section.1}
+\contentsline {section}{\numberline {2}Brezdimenzijska oblika}{1}{section.2}
+\contentsline {section}{\numberline {3}Vi\IeC {\v s}je sode potence}{3}{section.3}
+\contentsline {section}{\numberline {4}Prispevek kvadrati\IeC {\v c}nega \IeC {\v c}lena hitrosti}{5}{section.4}
+\contentsline {section}{\numberline {5}Periodi\IeC {\v c}na re\IeC {\v s}itev}{7}{section.5}
